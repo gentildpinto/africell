@@ -4,4 +4,4 @@ Kotlin implementation of [Martin Dala's](https://github.com/MartinDala/Africell_
 
 ### Demo:
 
-![Gif](./screens/screen_gif.gif)
+<img title="" src="./screens/screen_gif.gif" alt="Gif" data-align="center" width="250">
