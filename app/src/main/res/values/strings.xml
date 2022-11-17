@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Africell</string>
+    <string name="logo">Logotipo Africell</string>
+    <string name="phone_number">Número de telemóvel</string>
+    <string name="password">Palavra-passe</string>
+    <string name="login">Entrar</string>
+    <string name="greetings">Olá, Gentil</string>
+    <string name="phone">Número Telefone</string>
+    <string name="user_number">956020878</string>
+    <string name="credit_available">Saldo Disponível</string>
+    <string name="_200_kz">200 kz</string>
+    <string name="_15gb">15GB</string>
+    <string name="internet">Internet</string>
+</resources>
